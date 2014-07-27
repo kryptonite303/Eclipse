@@ -1,0 +1,2078 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Category name="Specialties">
+		<food>
+			<name>Fried Half Chicken</name>
+			<price>4</price>
+			<id>sp1</id>
+		</food>
+		<food>
+			<name>Fried Half Chicken with French Fries</name>
+			<price>5.5</price>
+			<id>sp1a</id>
+		</food>
+		<food>
+			<name>Fried Half Chicken with Fried Rice</name>
+			<price>5.5</price>
+			<id>sp1b</id>
+		</food>
+		<food>
+			<name>Fried Half Chicken with Pork Fried Rice</name>
+			<price>6.25</price>
+			<id>sp1c</id>
+		</food>
+		<food>
+			<name>Fried Half Chicken with Chicken Fried Rice</name>
+			<price>6.25</price>
+			<id>sp1d</id>
+		</food>
+		<food>
+			<name>Fried Half Chicken with Beef Fried Rice</name>
+			<price>6.75</price>
+			<id>sp1e</id>
+		</food>
+		<food>
+			<name>Fried Half Chicken with Shrimp Fried Rice</name>
+			<price>6.75</price>
+			<id>sp1f</id>
+		</food>
+		<food>
+			<name>Chicken Wings</name>
+			<price>3.8</price>
+			<id>sp2</id>
+		</food>
+		<food>
+			<name>Chicken Wings with French Fries</name>
+			<price>5.5</price>
+			<id>sp2a</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Fried Rice</name>
+			<price>5.5</price>
+			<id>sp2b</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Pork Fried Rice</name>
+			<price>6</price>
+			<id>sp2c</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Chicken Fried Rice</name>
+			<price>6</price>
+			<id>sp2d</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Beef Fried Rice</name>
+			<price>6.5</price>
+			<id>sp2e</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Shrimp Fried Rice</name>
+			<price>6.5</price>
+			<id>sp2f</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Garlic Sauce </name>
+			<price>4.25</price>
+			<id>sp3</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Garlic Sauce with French Fries</name>
+			<price>5.75</price>
+			<id>sp3a</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Garlic Sauce with Fried Rice</name>
+			<price>5.75</price>
+			<id>sp3b</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Garlic Sauce with Pork Fried Rice</name>
+			<price>6.25</price>
+			<id>sp3c</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Garlic Sauce with Chicken Fried Rice</name>
+			<price>6.25</price>
+			<id>sp3d</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Garlic Sauce with Beef Fried Rice</name>
+			<price>6.75</price>
+			<id>sp3e</id>
+		</food>
+		<food>
+			<name>Chicken Wings with Garlic Sauce with Shrimp Fried Rice</name>
+			<price>6.75</price>
+			<id>sp3f</id>
+		</food>
+		<food>
+			<name>Boneless Chicken</name>
+			<price>2.5</price>
+			<id>sp4</id>
+		</food>
+		<food>
+			<name>Boneless Chicken with French Fries</name>
+			<price>5.5</price>
+			<id>sp4a</id>
+		</food>
+		<food>
+			<name>Boneless Chicken with Fried Rice</name>
+			<price>5.5</price>
+			<id>sp4b</id>
+		</food>
+		<food>
+			<name>Boneless Chicken with Pork Fried Rice</name>
+			<price>6</price>
+			<id>sp4c</id>
+		</food>
+		<food>
+			<name>Boneless Chicken with Chicken Fried Rice</name>
+			<price>6</price>
+			<id>sp4d</id>
+		</food>
+		<food>
+			<name>Boneless Chicken with Beef Fried Rice</name>
+			<price>6.5</price>
+			<id>sp4e</id>
+		</food>
+		<food>
+			<name>Boneless Chicken with Shrimp Fried Rice</name>
+			<price>6.5</price>
+			<id>sp4f</id>
+		</food>
+		<food>
+			<name>Whiting Fish</name>
+			<price>3.5</price>
+			<id>sp5</id>
+		</food>
+		<food>
+			<name>Whiting Fish with French Fries</name>
+			<price>5.25</price>
+			<id>sp5a</id>
+		</food>
+		<food>
+			<name>Whiting Fish with Fried Rice</name>
+			<price>5.25</price>
+			<id>sp5b</id>
+		</food>
+		<food>
+			<name>Whiting Fish with Pork Fried Rice</name>
+			<price>5.75</price>
+			<id>sp5c</id>
+		</food>
+		<food>
+			<name>Whiting Fish with Chicken Fried Rice</name>
+			<price>5.75</price>
+			<id>sp5d</id>
+		</food>
+		<food>
+			<name>Whiting Fish with Beef Fried Rice</name>
+			<price>6.25</price>
+			<id>sp5e</id>
+		</food>
+		<food>
+			<name>Whiting Fish with Shrimp Fried Rice</name>
+			<price>6.25</price>
+			<id>sp5f</id>
+		</food>
+		<food>
+			<name>Fried Jumbo Shrimp</name>
+			<price>6.5</price>
+			<id>sp6</id>
+		</food>
+		<food>
+			<name>Fried Jumbo Shrimp with French Fries</name>
+			<price>7.5</price>
+			<id>sp6a</id>
+		</food>
+		<food>
+			<name>Fried Jumbo Shrimp with Fried Rice</name>
+			<price>7.5</price>
+			<id>sp6b</id>
+		</food>
+		<food>
+			<name>Fried Jumbo Shrimp with Pork Fried Rice</name>
+			<price>8</price>
+			<id>sp6c</id>
+		</food>
+		<food>
+			<name>Fried Jumbo Shrimp with Chicken Fried Rice</name>
+			<price>8</price>
+			<id>sp6d</id>
+		</food>
+		<food>
+			<name>Fried Jumbo Shrimp with Beef Fried Rice</name>
+			<price>8.5</price>
+			<id>sp6e</id>
+		</food>
+		<food>
+			<name>Fried Jumbo Shrimp with Shrimp Fried Rice</name>
+			<price>8.5</price>
+			<id>sp6f</id>
+		</food>
+		<food>
+			<name>BBQ Spare Ribs</name>
+			<price>6</price>
+			<id>sp7</id>
+		</food>
+		<food>
+			<name>BBQ Spare Ribs with French Fries</name>
+			<price>7</price>
+			<id>sp7a</id>
+		</food>
+		<food>
+			<name>BBQ Spare Ribs with Fried Rice</name>
+			<price>7</price>
+			<id>sp7b</id>
+		</food>
+		<food>
+			<name>BBQ Spare Ribs with Pork Fried Rice</name>
+			<price>7.5</price>
+			<id>sp7c</id>
+		</food>
+		<food>
+			<name>BBQ Spare Ribs with Chicken Fried Rice</name>
+			<price>7.5</price>
+			<id>sp7d</id>
+		</food>
+		<food>
+			<name>BBQ Spare Ribs with Beef Fried Rice</name>
+			<price>8</price>
+			<id>sp7e</id>
+		</food>
+		<food>
+			<name>BBQ Spare Ribs with Shrimp Fried Rice</name>
+			<price>8</price>
+			<id>sp7f</id>
+		</food>
+		<food>
+			<name>Boneless Spare Ribs</name>
+			<price>6</price>
+			<id>sp8</id>
+		</food>
+		<food>
+			<name>Boneless Spare Ribs with French Fries</name>
+			<price>7</price>
+			<id>sp8a</id>
+		</food>
+		<food>
+			<name>Boneless Spare Ribs with Fried Rice</name>
+			<price>7</price>
+			<id>sp8b</id>
+		</food>
+		<food>
+			<name>Boneless Spare Ribs with Pork Fried Rice</name>
+			<price>7.5</price>
+			<id>sp8c</id>
+		</food>
+		<food>
+			<name>Boneless Spare Ribs with Chicken Fried Rice</name>
+			<price>7.5</price>
+			<id>sp8d</id>
+		</food>
+		<food>
+			<name>Boneless Spare Ribs with Beef Fried Rice</name>
+			<price>8</price>
+			<id>sp8e</id>
+		</food>
+		<food>
+			<name>Boneless Spare Ribs with Shrimp Fried Rice</name>
+			<price>8</price>
+			<id>sp8f</id>
+		</food>
+		<food>
+			<name>BBQ Spare Rib Tips</name>
+			<price>3.75</price>
+			<id>sp9</id>
+		</food>
+		<food>
+			<name>BBQ Spare Rib Tips with French Fries</name>
+			<price>5.5</price>
+			<id>sp9a</id>
+		</food>
+		<food>
+			<name>BBQ Spare Rib Tips with Fried Rice</name>
+			<price>5.5</price>
+			<id>sp9b</id>
+		</food>
+		<food>
+			<name>BBQ Spare Rib Tips with Pork Fried Rice</name>
+			<price>6</price>
+			<id>sp9c</id>
+		</food>
+		<food>
+			<name>BBQ Spare Rib Tips with Chicken Fried Rice</name>
+			<price>6</price>
+			<id>sp9d</id>
+		</food>
+		<food>
+			<name>BBQ Spare Rib Tips with Beef Fried Rice</name>
+			<price>6.5</price>
+			<id>sp9e</id>
+		</food>
+		<food>
+			<name>BBQ Spare Rib Tips with Shrimp Fried Rice</name>
+			<price>6.5</price>
+			<id>sp9f</id>
+		</food>
+		<food>
+			<name>Crab Sticks</name>
+			<price>3.25</price>
+			<id>sp10</id>
+		</food>
+		<food>
+			<name>Crab Sticks with French Fries</name>
+			<price>5</price>
+			<id>sp10a</id>
+		</food>
+		<food>
+			<name>Crab Sticks with Fried Rice</name>
+			<price>5</price>
+			<id>sp10b</id>
+		</food>
+		<food>
+			<name>Crab Sticks with Pork Fried Rice</name>
+			<price>5.5</price>
+			<id>sp10c</id>
+		</food>
+		<food>
+			<name>Crab Sticks with Chicken Fried Rice</name>
+			<price>5.5</price>
+			<id>sp10d</id>
+		</food>
+		<food>
+			<name>Crab Sticks with Beef Fried Rice</name>
+			<price>6</price>
+			<id>sp10e</id>
+		</food>
+		<food>
+			<name>Crab Sticks with Shrimp Fried Rice</name>
+			<price>6</price>
+			<id>sp10f</id>
+		</food>
+		<food>
+			<name>Fried Scallops</name>
+			<price>3.25</price>
+			<id>sp11</id>
+		</food>
+		<food>
+			<name>Fried Scallops with French Fries</name>
+			<price>5</price>
+			<id>sp11a</id>
+		</food>
+		<food>
+			<name>Fried Scallops with Fried Rice</name>
+			<price>5</price>
+			<id>sp11b</id>
+		</food>
+		<food>
+			<name>Fried Scallops with Pork Fried Rice</name>
+			<price>5.5</price>
+			<id>sp11c</id>
+		</food>
+		<food>
+			<name>Fried Scallops with Chicken Fried Rice</name>
+			<price>5.5</price>
+			<id>sp11d</id>
+		</food>
+		<food>
+			<name>Fried Scallops with Beef Fried Rice</name>
+			<price>6</price>
+			<id>sp11e</id>
+		</food>
+		<food>
+			<name>Fried Scallops with Shrimp Fried Rice</name>
+			<price>6</price>
+			<id>sp11f</id>
+		</food>
+		<food>
+			<name>Baby Shrimps</name>
+			<price>4.25</price>
+			<id>sp12</id>
+		</food>
+		<food>
+			<name>Baby Shrimps with French Fries</name>
+			<price>5.75</price>
+			<id>sp12a</id>
+		</food>
+		<food>
+			<name>Baby Shrimps with Fried Rice</name>
+			<price>5.75</price>
+			<id>sp12b</id>
+		</food>
+		<food>
+			<name>Baby Shrimps with Pork Fried Rice</name>
+			<price>6.25</price>
+			<id>sp12c</id>
+		</food>
+		<food>
+			<name>Baby Shrimps with Chicken Fried Rice</name>
+			<price>6.25</price>
+			<id>sp12d</id>
+		</food>
+		<food>
+			<name>Baby Shrimps with Beef Fried Rice</name>
+			<price>6.75</price>
+			<id>sp12e</id>
+		</food>
+		<food>
+			<name>Baby Shrimps with Shrimp Fried Rice</name>
+			<price>6.75</price>
+			<id>sp12f</id>
+		</food>
+		<food>
+			<name>Chicken Gizzards</name>
+			<price>3</price>
+			<id>sp13</id>
+		</food>
+		<food>
+			<name>Chicken Gizzards with French Fries</name>
+			<price>5</price>
+			<id>sp13a</id>
+		</food>
+		<food>
+			<name>Chicken Gizzards with Fried Rice</name>
+			<price>5</price>
+			<id>sp13b</id>
+		</food>
+		<food>
+			<name>Chicken Gizzards with Pork Fried Rice</name>
+			<price>5.5</price>
+			<id>sp13c</id>
+		</food>
+		<food>
+			<name>Chicken Gizzards with Chicken Fried Rice</name>
+			<price>5.5</price>
+			<id>sp13d</id>
+		</food>
+		<food>
+			<name>Chicken Gizzards with Beef Fried Rice</name>
+			<price>6</price>
+			<id>sp13e</id>
+		</food>
+		<food>
+			<name>Chicken Gizzards with Shrimp Fried Rice</name>
+			<price>6</price>
+			<id>sp13f</id>
+		</food>
+		<food>
+			<name>Chicken Sticks</name>
+			<price>4.95</price>
+			<id>sp14</id>
+		</food>
+		<food>
+			<name>Chicken Sticks with French Fries</name>
+			<price>6.25</price>
+			<id>sp14a</id>
+		</food>
+		<food>
+			<name>Chicken Sticks with Fried Rice</name>
+			<price>6.25</price>
+			<id>sp14b</id>
+		</food>
+		<food>
+			<name>Chicken Sticks with Pork Fried Rice</name>
+			<price>6.75</price>
+			<id>sp14c</id>
+		</food>
+		<food>
+			<name>Chicken Sticks with Chicken Fried Rice</name>
+			<price>6.75</price>
+			<id>sp14d</id>
+		</food>
+		<food>
+			<name>Chicken Sticks with Beef Fried Rice</name>
+			<price>7.25</price>
+			<id>sp14e</id>
+		</food>
+		<food>
+			<name>Chicken Sticks with Shrimp Fried Rice</name>
+			<price>7.25</price>
+			<id>sp14f</id>
+		</food>
+		<food>
+			<name>Chicken Nugget</name>
+			<price>3.25</price>
+			<id>sp15</id>
+		</food>
+		<food>
+			<name>Chicken Nugget with French Fries</name>
+			<price>5</price>
+			<id>sp15a</id>
+		</food>
+		<food>
+			<name>Chicken Nugget with Fried Rice</name>
+			<price>5</price>
+			<id>sp15b</id>
+		</food>
+		<food>
+			<name>Chicken Nugget with Pork Fried Rice</name>
+			<price>5.5</price>
+			<id>sp15c</id>
+		</food>
+		<food>
+			<name>Chicken Nugget with Chicken Fried Rice</name>
+			<price>5.5</price>
+			<id>sp15d</id>
+		</food>
+		<food>
+			<name>Chicken Nugget with Beef Fried Rice</name>
+			<price>6</price>
+			<id>sp15e</id>
+		</food>
+		<food>
+			<name>Chicken Nugget with Shrimp Fried Rice</name>
+			<price>6</price>
+			<id>sp15f</id>
+		</food>
+	</Category>	
+	<Category name="Soup">		
+		<food>
+			<name>Wonton Soup Small</name>
+			<price>1.8</price>
+			<id>1s</id>
+		</food>
+		<food>
+			<name>Wonton Soup Large</name>
+			<price>2.8</price>
+			<id>1l</id>
+		</food>
+		<food>
+			<name>Egg Drop Soup Small</name>
+			<price>1.3</price>
+			<id>2s</id>
+		</food>
+		<food>
+			<name>Egg Drop Soup Large</name>
+			<price>2.3</price>
+			<id>2l</id>
+		</food>
+		<food>
+			<name>Chicken Noodle Soup Small</name>
+			<price>1.8</price>
+			<id>3s</id>
+		</food>
+		<food>
+			<name>Chicken Noodle Soup Large</name>
+			<price>2.8</price>
+			<id>3l</id>
+		</food>
+		<food>
+			<name>Wonton Egg Drop Soup Small</name>
+			<price>1.9</price>
+			<id>4s</id>
+		</food>
+		<food>
+			<name>Wonton Egg Drop Soup Large</name>
+			<price>2.9</price>
+			<id>4l</id>
+		</food>
+		<food>
+			<name>Vegetable &amp; Bean Curd Soup Small</name>
+			<price>2</price>
+			<id>5s</id>
+		</food>
+		<food>
+			<name>Vegetable and Bean Curd Soup Large</name>
+			<price>3.5</price>
+			<id>5l</id>
+		</food>
+		<food>
+			<name>Hot and Sour Soup Small</name>
+			<price>2</price>
+			<id>6s</id>
+		</food>
+		<food>
+			<name>Hot and Sour Soup Large</name>
+			<price>3.5</price>
+			<id>6l</id>
+		</food>
+		<food>
+			<name>Subgum Wonton Soup Small</name>
+			<price>3.25</price>
+			<id>7s</id>
+		</food>
+		<food>
+			<name>Subgum Wonton Soup Large</name>
+			<price>5.4</price>
+			<id>7l</id>
+		</food>
+		<food>
+			<name>Seafood Soup Small</name>
+			<price>3.9</price>
+			<id>8s</id>
+		</food>
+		<food>
+			<name>Seafood Soup Large</name>
+			<price>6.9</price>
+			<id>8l</id>
+		</food>
+		<food>
+			<name>Pork Yat Gaw Mein</name>
+			<price>4</price>
+			<id>8aa</id>
+		</food>
+		<food>
+			<name>Chicken Yat Gaw Mein</name>
+			<price>4</price>
+			<id>8ab</id>
+		</food>
+		<food>
+			<name>Vegetable Noodle Soup</name>
+			<price>4.5</price>
+			<id>8ba</id>
+		</food>
+		<food>
+			<name>Shrimp Noodle Soup</name>
+			<price>4.5</price>
+			<id>8bb</id>
+		</food>
+	</Category>	
+	<Category name="Appetizers">	
+		<food>
+			<name>Roast Pork Bun</name>
+			<price>1.3</price>
+			<id>9</id>
+		</food>
+		<food>
+			<name>Dim Sum</name>
+			<price>4.5</price>
+			<id>9a</id>
+		</food>
+		<food>
+			<name>Shrimp Egg Roll</name>
+			<price>1.2</price>
+			<id>10</id>
+		</food>
+		<food>
+			<name>Spring Egg Roll</name>
+			<price>1.2</price>
+			<id>11</id>
+		</food>
+		<food>
+			<name>Pork Egg Roll</name>
+			<price>1.1</price>
+			<id>12</id>
+		</food>
+		<food>
+			<name>Vegetable Egg Roll</name>
+			<price>1.1</price>
+			<id>13</id>
+		</food>
+		<food>
+			<name>BBQ Spare Ribs Small</name>
+			<price>6</price>
+			<id>14s</id>
+		</food>
+		<food>
+			<name>BBQ Spare Ribs Large</name>
+			<price>9.95</price>
+			<id>14l</id>
+		</food>
+		<food>
+			<name>Boneless Spare Ribs Small</name>
+			<price>6</price>
+			<id>15s</id>
+		</food>
+		<food>
+			<name>Boneless Spare Ribs Large</name>
+			<price>9.95</price>
+			<id>15l</id>
+		</food>
+		<food>
+			<name>Sauteed Roast Pork Small</name>
+			<price>6</price>
+			<id>16s</id>
+		</food>
+		<food>
+			<name>Sauteed Roast Pork Large</name>
+			<price>9.95</price>
+			<id>16l</id>
+		</food>
+		<food>
+			<name>Shrimp Toast</name>
+			<price>3.25</price>
+			<id>17</id>
+		</food>
+		<food>
+			<name>Fried Wonton</name>
+			<price>2.95</price>
+			<id>18</id>
+		</food>
+		<food>
+			<name>Crab Rangoon</name>
+			<price>4.5</price>
+			<id>18a</id>
+		</food>
+		<food>
+			<name>Fried Jumbo Shrimp</name>
+			<price>6.5</price>
+			<id>19</id>
+		</food>
+		<food>
+			<name>French Fries Small</name>
+			<price>1.75</price>
+			<id>20s</id>
+		</food>
+		<food>
+			<name>French Fries Large</name>
+			<price>2.75</price>
+			<id>20l</id>
+		</food>
+		<food>
+			<name>Fried Pork Dumplings</name>
+			<price>4.5</price>
+			<id>21f</id>
+		</food>
+		<food>
+			<name>Steamed Pork Dumplings</name>
+			<price>4.5</price>
+			<id>21s</id>
+		</food>
+		<food>
+			<name>Fried Vegetable Dumplings</name>
+			<price>4.5</price>
+			<id>22f</id>
+		</food>
+		<food>
+			<name>Steamed Vegetable Dumplings</name>
+			<price>4.5</price>
+			<id>22s</id>
+		</food>
+		<food>
+			<name>Fried Shrimp Dumplings</name>
+			<price>4.9</price>
+			<id>22af</id>
+		</food>
+		<food>
+			<name>Steamed Shrimp Dumplings</name>
+			<price>4.9</price>
+			<id>22as</id>
+		</food>
+		<food>
+			<name>Fried Chicken Dumplings</name>
+			<price>4.5</price>
+			<id>22bf</id>
+		</food>
+		<food>
+			<name>Steamed Chicken Dumplings</name>
+			<price>4.5</price>
+			<id>22bs</id>
+		</food>
+		<food>
+			<name>Beef Sticks </name>
+			<price>5.5</price>
+			<id>23</id>
+		</food>
+		<food>
+			<name>Cold Sesame Noodles </name>
+			<price>3.9</price>
+			<id>24</id>
+		</food>
+		<food>
+			<name>Noodles with Minced Meat Sauce </name>
+			<price>3.9</price>
+			<id>25</id>
+		</food>
+		<food>
+			<name>Fried Plantain </name>
+			<price>2.5</price>
+			<id>26</id>
+		</food>
+		<food>
+			<name>Pu Pu Platter </name>
+			<price>9.95</price>
+			<id>27</id>
+		</food>
+	</Category>
+	<Category name="Chow Mein">		
+		<food>
+			<name>Roast Pork Chow Mein Small</name>
+			<price>4.25</price>
+			<id>28s</id>
+		</food>
+		<food>
+			<name>Roast Pork Chow Mein Large</name>
+			<price>6.9</price>
+			<id>28l</id>
+		</food>
+		<food>
+			<name>Vegetable Chow Mein Small</name>
+			<price>3.5</price>
+			<id>29s</id>
+		</food>
+		<food>
+			<name>Vegetable Chow Mein Large</name>
+			<price>6.5</price>
+			<id>29l</id>
+		</food>
+		<food>
+			<name>Chicken Chow Mein Small</name>
+			<price>4.25</price>
+			<id>30s</id>
+		</food>
+		<food>
+			<name>Chicken Chow Mein Large</name>
+			<price>6.9</price>
+			<id>30l</id>
+		</food>
+		<food>
+			<name>Beef Chow Mein Small</name>
+			<price>4.5</price>
+			<id>31s</id>
+		</food>
+		<food>
+			<name>Beef Chow Mein Large</name>
+			<price>7.5</price>
+			<id>31l</id>
+		</food>
+		<food>
+			<name>Shrimp Chow Mein Small</name>
+			<price>4.5</price>
+			<id>32s</id>
+		</food>
+		<food>
+			<name>Shrimp Chow Mein Large</name>
+			<price>7.5</price>
+			<id>32l</id>
+		</food>
+		<food>
+			<name>Lobster Chow Mein Small</name>
+			<price>5.9</price>
+			<id>33s</id>
+		</food>
+		<food>
+			<name>Lobster Chow Mein Large</name>
+			<price>9.9</price>
+			<id>33l</id>
+		</food>
+	</Category>	
+	<Category name="Fried Rice">	
+		<food>
+			<name>Vegetable Fried Rice Small</name>
+			<price>3.25</price>
+			<id>34s</id>
+		</food>
+		<food>
+			<name>Vegetable Fried Rice Large</name>
+			<price>5.5</price>
+			<id>34l</id>
+		</food>
+		<food>
+			<name>Roast Pork Fried Rice Small</name>
+			<price>3.5</price>
+			<id>35s</id>
+		</food>
+		<food>
+			<name>Roast Pork Fried Rice Large</name>
+			<price>5.9</price>
+			<id>35l</id>
+		</food>
+		<food>
+			<name>Chicken Fried Rice Small</name>
+			<price>3.5</price>
+			<id>36s</id>
+		</food>
+		<food>
+			<name>Chicken Fried Rice Large</name>
+			<price>5.9</price>
+			<id>36l</id>
+		</food>
+		<food>
+			<name>Beef Fried Rice Small</name>
+			<price>4.25</price>
+			<id>37s</id>
+		</food>
+		<food>
+			<name>Beef Fried Rice Large</name>
+			<price>6.9</price>
+			<id>37l</id>
+		</food>
+		<food>
+			<name>Shrimp Fried Rice Small</name>
+			<price>4.25</price>
+			<id>38s</id>
+		</food>
+		<food>
+			<name>Shrimp Fried Rice Large</name>
+			<price>6.9</price>
+			<id>38l</id>
+		</food>
+		<food>
+			<name>Young Chow Fried Rice Small</name>
+			<price>4.5</price>
+			<id>39s</id>
+		</food>
+		<food>
+			<name>Young Chow Fried Rice Large</name>
+			<price>7.1</price>
+			<id>39l</id>
+		</food>
+		<food>
+			<name>Lobster Fried Rice Small</name>
+			<price>5.5</price>
+			<id>40s</id>
+		</food>
+		<food>
+			<name>Lobster Fried Rice Large</name>
+			<price>9.9</price>
+			<id>40l</id>
+		</food>
+		<food>
+			<name>Plain Fried Rice Small</name>
+			<price>2</price>
+			<id>41s</id>
+		</food>
+		<food>
+			<name>Plain Fried Rice Large</name>
+			<price>3.5</price>
+			<id>41l</id>
+		</food>
+	</Category>
+	<Category name="Lo Mein">		
+		<food>
+			<name>Vegetable Lo Mein Small</name>
+			<price>3.9</price>
+			<id>42s</id>
+		</food>
+		<food>
+			<name>Vegetable Lo Mein Large</name>
+			<price>6.5</price>
+			<id>42l</id>
+		</food>
+		<food>
+			<name>Roast Pork Lo Mein Small</name>
+			<price>4.25</price>
+			<id>43s</id>
+		</food>
+		<food>
+			<name>Roast Pork Lo Mein Large</name>
+			<price>6.9</price>
+			<id>43l</id>
+		</food>
+		<food>
+			<name>Chicken Lo Mein Small</name>
+			<price>4.25</price>
+			<id>44s</id>
+		</food>
+		<food>
+			<name>Chicken Lo Mein Large</name>
+			<price>6.9</price>
+			<id>44l</id>
+		</food>
+		<food>
+			<name>Beef Lo Mein Small</name>
+			<price>4.5</price>
+			<id>45s</id>
+		</food>
+		<food>
+			<name>Beef Lo Mein Large</name>
+			<price>7.5</price>
+			<id>45l</id>
+		</food>
+		<food>
+			<name>Shrimp Lo Mein Small</name>
+			<price>4.5</price>
+			<id>46s</id>
+		</food>
+		<food>
+			<name>Shrimp Lo Mein Large</name>
+			<price>7.5</price>
+			<id>46l</id>
+		</food>
+		<food>
+			<name>Subgum Lo Mein Small</name>
+			<price>4.9</price>
+			<id>47s</id>
+		</food>
+		<food>
+			<name>Subgum Lo Mein Large</name>
+			<price>8.9</price>
+			<id>47l</id>
+		</food>
+		<food>
+			<name>Seafood Pan Fried Noodles</name>
+			<price>8.9</price>
+			<id>48</id>
+		</food>
+		<food>
+			<name>Subgum Pan Fried Noodles </name>
+			<price>8.9</price>
+			<id>49</id>
+		</food>
+	</Category>		
+	<Category name="Chow Mai Fun">		
+		<food>
+			<name>Chicken Chow Mai Fun</name>
+			<price>6.25</price>
+			<id>50</id>
+		</food>
+		<food>
+			<name>Roast Pork Chow Mai Fun</name>
+			<price>6.25</price>
+			<id>51</id>
+		</food>
+		<food>
+			<name>Vegetable Chow Mai Fun</name>
+			<price>5.5</price>
+			<id>52</id>
+		</food>
+		<food>
+			<name>Beef Chow Mai Fun</name>
+			<price>6.75</price>
+			<id>53</id>
+		</food>
+		<food>
+			<name>Shrimp Chow Mai Fun </name>
+			<price>6.75</price>
+			<id>54</id>
+		</food>
+		<food>
+			<name>Subgum Chow Mai Fun</name>
+			<price>6.9</price>
+			<id>55</id>
+		</food>
+		<food>
+			<name>Singapore Chow Mai Fun</name>
+			<price>7</price>
+			<id>56</id>
+		</food>
+	</Category>		
+	<Category name="Chow Fun">		
+		<food>
+			<name>Chicken Chow Fun</name>
+			<price>6.25</price>
+			<id>57</id>
+		</food>
+		<food>
+			<name>Roast Pork Chow Fun</name>
+			<price>6.25</price>
+			<id>58</id>
+		</food>
+		<food>
+			<name>Vegetable Chow Fun</name>
+			<price>5.5</price>
+			<id>59</id>
+		</food>
+		<food>
+			<name>Beef Chow Fun</name>
+			<price>6.75</price>
+			<id>60</id>
+		</food>
+		<food>
+			<name>Shrimp Chow Fun</name>
+			<price>6.75</price>
+			<id>61</id>
+		</food>
+		<food>
+			<name>Subgum Chow Fun</name>
+			<price>6.9</price>
+			<id>62</id>
+		</food>
+	</Category>		
+	<Category name="Egg Foo Young">		
+		<food>
+			<name>Roast Pork Egg Foo Young</name>
+			<price>6.5</price>
+			<id>63</id>
+		</food>
+		<food>
+			<name>Chicken Egg Foo Young</name>
+			<price>6.5</price>
+			<id>64</id>
+		</food>
+		<food>
+			<name>Vegetable Egg Foo Young</name>
+			<price>6.5</price>
+			<id>65</id>
+		</food>
+		<food>
+			<name>Beef Egg Foo Young</name>
+			<price>7.5</price>
+			<id>66</id>
+		</food>
+		<food>
+			<name>Shrimp Egg Foo Young</name>
+			<price>7.5</price>
+			<id>67</id>
+		</food>
+		<food>
+			<name>Subgum Egg Foo Young</name>
+			<price>7.9</price>
+			<id>68</id>
+		</food>
+		<food>
+			<name>Lobster Egg Foo Young</name>
+			<price>9.9</price>
+			<id>69</id>
+		</food>
+	</Category>		
+	<Category name="Sweet and Sour">		
+		<food>
+			<name>Sweet and Sour Chicken Small</name>
+			<price>4.25</price>
+			<id>70s</id>
+		</food>
+		<food>
+			<name>Sweet and Sour Chicken Large</name>
+			<price>7.3</price>
+			<id>70l</id>
+		</food>
+		<food>
+			<name>Sweet and Sour Pork Small</name>
+			<price>4.25</price>
+			<id>71s</id>
+		</food>
+		<food>
+			<name>Sweet and Sour Pork Large</name>
+			<price>7.3</price>
+			<id>71l</id>
+		</food>
+		<food>
+			<name>Sweet and Sour Shrimp </name>
+			<price>9.5</price>
+			<id>72</id>
+		</food>
+	</Category>		
+	<Category name="Vegetables">		
+		<food>
+			<name>Sauteed Broccoli Small</name>
+			<price>3.9</price>
+			<id>73s</id>
+		</food>
+		<food>
+			<name>Sauteed Broccoli Large</name>
+			<price>5.9</price>
+			<id>73l</id>
+		</food>
+		<food>
+			<name>Broccoli with Garlic Sauce Small</name>
+			<price>3.9</price>
+			<id>74s</id>
+		</food>
+		<food>
+			<name>Broccoli with Garlic Sauce Large</name>
+			<price>5.9</price>
+			<id>74l</id>
+		</food>
+		<food>
+			<name>Sauteed String Beans Small</name>
+			<price>4.25</price>
+			<id>75s</id>
+		</food>
+		<food>
+			<name>Sauteed String Beans Large</name>
+			<price>6.5</price>
+			<id>75l</id>
+		</food>
+		<food>
+			<name>Sauteed Bean Sprouts Small</name>
+			<price>3.9</price>
+			<id>76s</id>
+		</food>
+		<food>
+			<name>Sauteed Bean Sprouts Large</name>
+			<price>5.9</price>
+			<id>76l</id>
+		</food>
+		<food>
+			<name>Buddha's Delight</name>
+			<price>6.5</price>
+			<id>77</id>
+		</food>
+		<food>
+			<name>Green Jade Delight</name>
+			<price>6.5</price>
+			<id>78</id>
+		</food>
+		<food>
+			<name>Chinese Vegetable</name>
+			<price>6.5</price>
+			<id>79</id>
+		</food>
+		<food>
+			<name>Eggplant with Garlic Sauce</name>
+			<price>6.5</price>
+			<id>80</id>
+		</food>
+		<food>
+			<name>Hot Spiced Bean Curd with Vegetable</name>
+			<price>6.5</price>
+			<id>81</id>
+		</food>
+	</Category>		
+	<Category name="Seafood">		
+		<food>
+			<name>Lobster Sauce Small</name>
+			<price>2</price>
+			<id>82s</id>
+		</food>
+		<food>
+			<name>Lobster Sauce Large</name>
+			<price>3.9</price>
+			<id>82l</id>
+		</food>
+		<food>
+			<name>Seafood Sticks with Lobster Sauce Small</name>
+			<price>4</price>
+			<id>83s</id>
+		</food>
+		<food>
+			<name>Seafood Sticks with Lobster Sauce Large</name>
+			<price>6.9</price>
+			<id>83l</id>
+		</food>
+		<food>
+			<name>Shrimp with Bean Sprouts Small</name>
+			<price>5</price>
+			<id>84s</id>
+		</food>
+		<food>
+			<name>Shrimp with Bean Sprouts Large</name>
+			<price>8.5</price>
+			<id>84l</id>
+		</food>
+		<food>
+			<name>Shrimp with Almond Ding Small</name>
+			<price>5</price>
+			<id>85s</id>
+		</food>
+		<food>
+			<name>Shrimp with Almond Ding Large</name>
+			<price>8.5</price>
+			<id>85l</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Lobster Sauce Small</name>
+			<price>5.5</price>
+			<id>86s</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Lobster Sauce Large</name>
+			<price>9.5</price>
+			<id>86l</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Black Bean Sauce Small</name>
+			<price>5.5</price>
+			<id>87s</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Black Bean Sauce Large</name>
+			<price>9.5</price>
+			<id>87l</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Curry Sauce Small</name>
+			<price>5.5</price>
+			<id>88s</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Curry Sauce Large</name>
+			<price>9.5</price>
+			<id>88l</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Oyster Sauce Small</name>
+			<price>5.5</price>
+			<id>89s</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Oyster Sauce Large</name>
+			<price>9.5</price>
+			<id>89l</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Green Pepper and Tomato Small</name>
+			<price>5.5</price>
+			<id>90s</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Green Pepper and Tomato Large</name>
+			<price>9.5</price>
+			<id>90l</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Chinese Vegetables Small</name>
+			<price>5.5</price>
+			<id>91s</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Chinese Vegetables Large</name>
+			<price>9.5</price>
+			<id>91l</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Mushroom Small</name>
+			<price>5.5</price>
+			<id>92s</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Mushroom Large</name>
+			<price>9.5</price>
+			<id>92l</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Broccoli Small</name>
+			<price>5.5</price>
+			<id>93s</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Broccoli Large</name>
+			<price>9.5</price>
+			<id>93l</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Snow Peas</name>
+			<price>8.9</price>
+			<id>94</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with String Beans</name>
+			<price>8.9</price>
+			<id>95</id>
+		</food>
+		<food>
+			<name>Shrimp with Cashew Nuts</name>
+			<price>8.5</price>
+			<id>96</id>
+		</food>
+		<food>
+			<name>Lobster Cantonese</name>
+			<price>99</price>
+			<id>97</id>
+		</food>
+		<food>
+			<name>Lobster with Black Bean Sauce</name>
+			<price>99</price>
+			<id>98</id>
+		</food>
+		<food>
+			<name>Lobster with Ginger and Scallion</name>
+			<price>99</price>
+			<id>99</id>
+		</food>
+		<food>
+			<name>Lobster with Garlic Sauce</name>
+			<price>99</price>
+			<id>100</id>
+		</food>
+		<food>
+			<name>Lobster with Szechuan Style</name>
+			<price>99</price>
+			<id>101</id>
+		</food>
+	</Category>		
+	<Category name="Moo Shu Dishes">		
+		<food>
+			<name>Moo Shu Chicken</name>
+			<price>7.5</price>
+			<id>102</id>
+		</food>
+		<food>
+			<name>Moo Shu Pork</name>
+			<price>7.5</price>
+			<id>103</id>
+		</food>
+		<food>
+			<name>Moo Shu Vegetable</name>
+			<price>7.5</price>
+			<id>104</id>
+		</food>
+		<food>
+			<name>Moo Shu Beef</name>
+			<price>7.9</price>
+			<id>105</id>
+		</food>
+		<food>
+			<name>Moo Shu Shrimp</name>
+			<price>7.9</price>
+			<id>106</id>
+		</food>
+	</Category>		
+	<Category name="Beef">		
+		<food>
+			<name>Pepper Steak with Onion Small</name>
+			<price>5.25</price>
+			<id>107s</id>
+		</food>
+		<food>
+			<name>Pepper Steak with Onion Large</name>
+			<price>8.9</price>
+			<id>107l</id>
+		</food>
+		<food>
+			<name>Beef with Pepper and Tomato Small</name>
+			<price>5.25</price>
+			<id>108s</id>
+		</food>
+		<food>
+			<name>Beef with Pepper and Tomato Large</name>
+			<price>8.9</price>
+			<id>108l</id>
+		</food>
+		<food>
+			<name>Beef with Chinese Vegetable Small</name>
+			<price>5.25</price>
+			<id>109s</id>
+		</food>
+		<food>
+			<name>Beef with Chinese Vegetable Large</name>
+			<price>8.9</price>
+			<id>109l</id>
+		</food>
+		<food>
+			<name>Beef with Mushrooms Small</name>
+			<price>5.25</price>
+			<id>110s</id>
+		</food>
+		<food>
+			<name>Beef with Mushrooms Large</name>
+			<price>8.9</price>
+			<id>110l</id>
+		</food>
+		<food>
+			<name>Beef with Broccoli Small</name>
+			<price>5.25</price>
+			<id>111s</id>
+		</food>
+		<food>
+			<name>Beef with Broccoli Large</name>
+			<price>8.9</price>
+			<id>111l</id>
+		</food>
+		<food>
+			<name>Beef with Oyster Sauce Small</name>
+			<price>5.25</price>
+			<id>112s</id>
+		</food>
+		<food>
+			<name>Beef with Oyster Sauce Large</name>
+			<price>8.9</price>
+			<id>112l</id>
+		</food>
+		<food>
+			<name>Beef with Bean Sprouts Small</name>
+			<price>5.25</price>
+			<id>113s</id>
+		</food>
+		<food>
+			<name>Beef with Bean Sprouts Large</name>
+			<price>8.9</price>
+			<id>113l</id>
+		</food>
+		<food>
+			<name>Beef with Curry Sauce Small</name>
+			<price>5.25</price>
+			<id>114s</id>
+		</food>
+		<food>
+			<name>Beef with Curry Sauce Large</name>
+			<price>8.9</price>
+			<id>114l</id>
+		</food>
+		<food>
+			<name>Beef with String Beans</name>
+			<price>8.9</price>
+			<id>115</id>
+		</food>
+		<food>
+			<name>Beef with Snow Peas</name>
+			<price>8.9</price>
+			<id>116</id>
+		</food>
+		<food>
+			<name>Beef with Bean Curd</name>
+			<price>8.9</price>
+			<id>117</id>
+		</food>
+		<food>
+			<name>Beef with Scallions</name>
+			<price>8.9</price>
+			<id>118</id>
+		</food>
+	</Category>		
+	<Category name="Pork">		
+		<food>
+			<name>Roast Pork with Bean Sprouts Small</name>
+			<price>5</price>
+			<id>119s</id>
+		</food>
+		<food>
+			<name>Roast Pork with Bean Sprouts Large</name>
+			<price>8.75</price>
+			<id>119l</id>
+		</food>
+		<food>
+			<name>Roast Pork with Oyster Small</name>
+			<price>5</price>
+			<id>120s</id>
+		</food>
+		<food>
+			<name>Roast Pork with Oyster Large</name>
+			<price>8.75</price>
+			<id>120l</id>
+		</food>
+		<food>
+			<name>Curry Pork with Onion Small</name>
+			<price>5</price>
+			<id>121s</id>
+		</food>
+		<food>
+			<name>Curry Pork with Onion Large</name>
+			<price>8.75</price>
+			<id>121l</id>
+		</food>
+		<food>
+			<name>Roast Pork with Chinese Vegetable Small</name>
+			<price>5</price>
+			<id>122s</id>
+		</food>
+		<food>
+			<name>Roast Pork with Chinese Vegetable Large</name>
+			<price>8.75</price>
+			<id>122l</id>
+		</food>
+		<food>
+			<name>Roast Pork with Mushrooms Small</name>
+			<price>5</price>
+			<id>123s</id>
+		</food>
+		<food>
+			<name>Roast Pork with Mushrooms Large</name>
+			<price>8.75</price>
+			<id>123l</id>
+		</food>
+		<food>
+			<name>Roast Pork with Broccoli Small</name>
+			<price>5</price>
+			<id>124s</id>
+		</food>
+		<food>
+			<name>Roast Pork with Broccoli Large</name>
+			<price>8.75</price>
+			<id>124l</id>
+		</food>
+		<food>
+			<name>Roast Pork with Almond Ding Small</name>
+			<price>5</price>
+			<id>125s</id>
+		</food>
+		<food>
+			<name>Roast Pork with Almond Ding Large</name>
+			<price>8.75</price>
+			<id>125l</id>
+		</food>
+		<food>
+			<name>Roast Pork with Snow Peas</name>
+			<price>8.75</price>
+			<id>126</id>
+		</food>
+		<food>
+			<name>Pork with StringBeans</name>
+			<price>8.75</price>
+			<id>127</id>
+		</food>
+		<food>
+			<name>Pork with Scallion</name>
+			<price>8.75</price>
+			<id>128</id>
+		</food>
+	</Category>		
+	<Category name="Poultry">		
+		<food>
+			<name>Chicken with Bean Sprouts Small</name>
+			<price>5</price>
+			<id>129s</id>
+		</food>
+		<food>
+			<name>Chicken with Bean Sprouts Large</name>
+			<price>8.75</price>
+			<id>129l</id>
+		</food>
+		<food>
+			<name>Chicken with Black Bean Sauce Small</name>
+			<price>5</price>
+			<id>130s</id>
+		</food>
+		<food>
+			<name>Chicken with Black Bean Sauce Large</name>
+			<price>8.75</price>
+			<id>130l</id>
+		</food>
+		<food>
+			<name>Chicken with Curry Sauce Small</name>
+			<price>5</price>
+			<id>131s</id>
+		</food>
+		<food>
+			<name>Chicken with Curry Sauce Large</name>
+			<price>8.75</price>
+			<id>131l</id>
+		</food>
+		<food>
+			<name>Chicken with Chinese Vegetable Small</name>
+			<price>5</price>
+			<id>132s</id>
+		</food>
+		<food>
+			<name>Chicken with Chinese Vegetable Large</name>
+			<price>8.75</price>
+			<id>132l</id>
+		</food>
+		<food>
+			<name>Chicken with Almond Ding Small</name>
+			<price>5</price>
+			<id>133s</id>
+		</food>
+		<food>
+			<name>Chicken with Almond Ding Large</name>
+			<price>8.75</price>
+			<id>133l</id>
+		</food>
+		<food>
+			<name>Chicken with Broccoli Small</name>
+			<price>5</price>
+			<id>134s</id>
+		</food>
+		<food>
+			<name>Chicken with Broccoli Large</name>
+			<price>8.75</price>
+			<id>134l</id>
+		</food>
+		<food>
+			<name>Chicken with Mushrooms Small</name>
+			<price>5</price>
+			<id>135s</id>
+		</food>
+		<food>
+			<name>Chicken with Mushrooms Large</name>
+			<price>8.75</price>
+			<id>135l</id>
+		</food>
+		<food>
+			<name>Chicken with String Bean</name>
+			<price>8.9</price>
+			<id>136</id>
+		</food>
+		<food>
+			<name>Chicken with Show Peas</name>
+			<price>8.9</price>
+			<id>137</id>
+		</food>
+		<food>
+			<name>Moo Goo Gai Pan Chicken</name>
+			<price>8.9</price>
+			<id>138</id>
+		</food>
+		<food>
+			<name>Boneless Chicken</name>
+			<price>8.9</price>
+			<id>139</id>
+		</food>
+		<food>
+			<name>Lemon Chicken</name>
+			<price>8.9</price>
+			<id>140</id>
+		</food>
+		<food>
+			<name>Chicken with Bean Curd</name>
+			<price>8.9</price>
+			<id>141</id>
+		</food>
+		<food>
+			<name>Diced Chicken with Peking Sauce</name>
+			<price>8.9</price>
+			<id>142</id>
+		</food>
+		<food>
+			<name>Chicken with Cashew Nuts</name>
+			<price>8.9</price>
+			<id>143</id>
+		</food>
+	</Category>		
+	<Category name="Diet Dishes">	
+		<food>
+			<name>Chicken with Broccoli</name>
+			<price>7.9</price>
+			<id>144</id>
+		</food>
+		<food>
+			<name>Chicken with Mixed Vegetables</name>
+			<price>7.9</price>
+			<id>145</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Broccoli</name>
+			<price>8.9</price>
+			<id>146</id>
+		</food>
+		<food>
+			<name>Jumbo Shrimp with Mixed Vegetables</name>
+			<price>8.9</price>
+			<id>147</id>
+		</food>
+		<food>
+			<name>Buddha’s Delight</name>
+			<price>6.5</price>
+			<id>148</id>
+		</food>
+		<food>
+			<name>Green Jade Delight</name>
+			<price>6.5</price>
+			<id>149</id>
+		</food>
+	</Category>	
+	<Category name="Chefs Specialties">	
+		<food>
+			<name>Butterfly Shrimp</name>
+			<price>9.25</price>
+			<id>s1</id>
+		</food>
+		<food>
+			<name>Coral Shrimp</name>
+			<price>8.75</price>
+			<id>s2</id>
+		</food>
+		<food>
+			<name>Lake Tung Ting Shrimp</name>
+			<price>8.75</price>
+			<id>s3</id>
+		</food>
+		<food>
+			<name>Mussels with Black Bean Sauce</name>
+			<price>9.25</price>
+			<id>s4</id>
+		</food>
+		<food>
+			<name>Four Seasons</name>
+			<price>9.25</price>
+			<id>s5</id>
+		</food>
+		<food>
+			<name>Happy Family</name>
+			<price>9.95</price>
+			<id>s6</id>
+		</food>
+		<food>
+			<name>Seafood King</name>
+			<price>9.95</price>
+			<id>s7</id>
+		</food>
+		<food>
+			<name>General Tso’s Chicken</name>
+			<price>8.95</price>
+			<id>s8</id>
+		</food>
+		<food>
+			<name>Shrimp and Chicken in Peking Sauce</name>
+			<price>8.95</price>
+			<id>s9</id>
+		</food>
+		<food>
+			<name>Tai-Chein Chicken</name>
+			<price>8.95</price>
+			<id>s10</id>
+		</food>
+		<food>
+			<name>Wonderful Beef (Beef &amp; Scallops)</name>
+			<price>8.95</price>
+			<id>s11</id>
+		</food>
+		<food>
+			<name>Pineapple Chicken</name>
+			<price>8.95</price>
+			<id>s12</id>
+		</food>
+	</Category>	
+	<Category name="Hunan and Szechuan Dishes">	
+		<food>
+			<name>Scallops Hunan Style</name>
+			<price>8.95</price>
+			<id>h1</id>
+		</food>
+		<food>
+			<name>Beef Hunan Style</name>
+			<price>8.75</price>
+			<id>h2</id>
+		</food>
+		<food>
+			<name>Shrimp Human Style</name>
+			<price>8.75</price>
+			<id>h3</id>
+		</food>
+		<food>
+			<name>Chicken Hunan Style</name>
+			<price>8.5</price>
+			<id>h4</id>
+		</food>
+		<food>
+			<name>Pork Hunan Style</name>
+			<price>8.5</price>
+			<id>h5</id>
+		</food>
+		<food>
+			<name>Hunan Triple Delight</name>
+			<price>8.95</price>
+			<id>h6</id>
+		</food>
+		<food>
+			<name>Scallop with Garlic Sauce</name>
+			<price>8.95</price>
+			<id>h7</id>
+		</food>
+		<food>
+			<name>Beef with Garlic Sauce</name>
+			<price>8.95</price>
+			<id>h8</id>
+		</food>
+		<food>
+			<name>Shrimp with Garlic Sauce</name>
+			<price>8.5</price>
+			<id>h9</id>
+		</food>
+		<food>
+			<name>Chicken with Garlic Sauce</name>
+			<price>8.5</price>
+			<id>h10</id>
+		</food>
+		<food>
+			<name>Pork with Garlic Sauce</name>
+			<price>8.5</price>
+			<id>h11</id>
+		</food>
+		<food>
+			<name>Triple Crown with Garlic Sauce</name>
+			<price>8.9</price>
+			<id>h12</id>
+		</food>
+		<food>
+			<name>Kung Bo Chicken</name>
+			<price>8.25</price>
+			<id>h13</id>
+		</food>
+		<food>
+			<name>Kung Bo Shrimp</name>
+			<price>8.9</price>
+			<id>h14</id>
+		</food>
+		<food>
+			<name>Kung Bo Scallops</name>
+			<price>8.9</price>
+			<id>h15</id>
+		</food>
+		<food>
+			<name>Crispy Chicken with Orange Flavor</name>
+			<price>8.95</price>
+			<id>h16</id>
+		</food>
+		<food>
+			<name>Crispy Beef with Orange Flavor</name>
+			<price>9.25</price>
+			<id>h17</id>
+		</food>
+		<food>
+			<name>Crispy Shrimp with Orange Flavor</name>
+			<price>9.75</price>
+			<id>h18</id>
+		</food>
+		<food>
+			<name>Sesame Chicken</name>
+			<price>8.95</price>
+			<id>h19</id>
+		</food>
+		<food>
+			<name>Sesame Beef</name>
+			<price>9.25</price>
+			<id>h20</id>
+		</food>
+		<food>
+			<name>Sesame Shrimp</name>
+			<price>9.75</price>
+			<id>h21</id>
+		</food>
+		<food>
+			<name>Hot and Spicy Shredded Beef</name>
+			<price>8.5</price>
+			<id>h22</id>
+		</food>
+		<food>
+			<name>Hot and Spicy Shredded Chicken</name>
+			<price>8.5</price>
+			<id>h23</id>
+		</food>
+		<food>
+			<name>Hot and Spicy Shredded Pork</name>
+			<price>8.5</price>
+			<id>h24</id>
+		</food>
+		<food>
+			<name>Scallop Szechuan Style</name>
+			<price>9.25</price>
+			<id>h25</id>
+		</food>
+		<food>
+			<name>Shrimp Szechuan Style</name>
+			<price>8.5</price>
+			<id>h26</id>
+		</food>
+		<food>
+			<name>Beef Szechuan Style</name>
+			<price>8.95</price>
+			<id>h27</id>
+		</food>
+		<food>
+			<name>Chicken Szechuan Style</name>
+			<price>8.5</price>
+			<id>h28</id>
+		</food>
+		<food>
+			<name>Shrimp and Chicken Szechuan Style</name>
+			<price>8.75</price>
+			<id>h29</id>
+		</food>
+		<food>
+			<name>Shrimp and Beef Szechuan Style</name>
+			<price>8.95</price>
+			<id>h30</id>
+		</food>
+		<food>
+			<name>Baby Shrimp with Chili Sauce</name>
+			<price>8.75</price>
+			<id>h31</id>
+		</food>
+		<food>
+			<name>Twice Cooked Pork</name>
+			<price>8.5</price>
+			<id>h32</id>
+		</food>
+	</Category>	
+	<Category name="Combination Platter">
+		<food>
+			<name>White Meat Chicken Chow Mein</name>
+			<price>7.25</price>
+			<id>c1</id>
+		</food>
+		<food>
+			<name>Shrimp Chow Mein</name>
+			<price>7.25</price>
+			<id>c2</id>
+		</food>
+		<food>
+			<name>Roast Pork Egg Foo Young</name>
+			<price>7.25</price>
+			<id>c3</id>
+		</food>
+		<food>
+			<name>Pepper Steak</name>
+			<price>7.25</price>
+			<id>c4</id>
+		</food>
+		<food>
+			<name>BBQ Spare Ribs</name>
+			<price>8</price>
+			<id>c5a</id>
+		</food>
+		<food>
+			<name>Boneless Spare Ribs</name>
+			<price>8</price>
+			<id>c5b</id>
+		</food>
+		<food>
+			<name>Shrimp with Lobster Sauce</name>
+			<price>7.25</price>
+			<id>c6</id>
+		</food>
+		<food>
+			<name>Roast Pork with Chinese Vegetable</name>
+			<price>7.25</price>
+			<id>c7</id>
+		</food>
+		<food>
+			<name>Sweet and Sour Chicken or Pork</name>
+			<price>7.25</price>
+			<id>c8</id>
+		</food>
+		<food>
+			<name>Moo Goo Gai Pan</name>
+			<price>7.25</price>
+			<id>c9</id>
+		</food>
+		<food>
+			<name>Beef with Broccoli</name>
+			<price>7.25</price>
+			<id>c10a</id>
+		</food>
+		<food>
+			<name>Chicken with Broccoli</name>
+			<price>7.25</price>
+			<id>c10b</id>
+		</food>
+		<food>
+			<name>Chicken with Cashew Nuts</name>
+			<price>7.25</price>
+			<id>c11</id>
+		</food>
+		<food>
+			<name>Shrimp with Garlic Sauce</name>
+			<price>7.25</price>
+			<id>c12</id>
+		</food>
+		<food>
+			<name>Hunan Beef</name>
+			<price>7.25</price>
+			<id>c13</id>
+		</food>
+		<food>
+			<name>Roast Pork Lo Mein</name>
+			<price>7.25</price>
+			<id>c14</id>
+		</food>
+		<food>
+			<name>Hot and Spicy Shredded Beef</name>
+			<price>7.25</price>
+			<id>c15</id>
+		</food>
+		<food>
+			<name>Shrimp Szechuan Style</name>
+			<price>7.25</price>
+			<id>c16</id>
+		</food>
+		<food>
+			<name>Kung Bo Shrimp</name>
+			<price>7.25</price>
+			<id>c17</id>
+		</food>
+		<food>
+			<name>General Tso’s Chicken</name>
+			<price>7.25</price>
+			<id>c18</id>
+		</food>
+		<food>
+			<name>Shrimp and Chicken Szechuan Style</name>
+			<price>7.25</price>
+			<id>c19</id>
+		</food>
+		<food>
+			<name>Shrimp and Chicken Peking Style</name>
+			<price>7.25</price>
+			<id>c20</id>
+		</food>
+		<food>
+			<name>Sesame Chicken</name>
+			<price>7.25</price>
+			<id>c21</id>
+		</food>
+		<food>
+			<name>Crispy Beef Orange Flavor</name>
+			<price>7.25</price>
+			<id>c22a</id>
+		</food>
+		<food>
+			<name>Chicken Orange Flavor</name>
+			<price>7.25</price>
+			<id>c22b</id>
+		</food>
+	</Category>	
+</menu-data>

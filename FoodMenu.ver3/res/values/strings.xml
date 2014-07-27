@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- The title -->
+    <string name="app_name">FoodMenu.ver3</string>
+    <!-- Top bar title -->
+    <string name="title_customer_detail">Customer Detail</string>
+    <!-- Menu -->
+    <string name="menu">Menu</string>
+    <!-- Orders -->
+    <string name="orders">Orders</string>
+    <!-- Custoemr List -->
+    <string name="customer_list">Customer List</string>
+    <!-- New Order -->
+    <string name="new_order">New Order</string>
+	<!--  -->
+	<string name="phone_number">Phone Number</string>
+	<!--  -->
+	<string name="address">Address</string>
+	<!--  -->
+	<string name="credit_card_number">Credit Card Number</string>
+	<!--  -->
+	<string name="order">Order</string>
+	<!--  -->
+	<string name="price">Price</string>
+	<!--  -->
+	<string name="edit_order">Edit Order</string>
+	<!--  -->
+	<string name="empty_order">Order empty</string>
+	<!--  -->
+	<string name="create_order">Create Order</string>
+	<!--  -->
+	<string name="action_text_return">Save Order</string>
+</resources>
